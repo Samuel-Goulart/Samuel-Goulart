@@ -1,4 +1,4 @@
-### Olá, mundo! 👋 Sou o Samuel Goulart
+### Olá, Sou o Samuel Goulart
 
 Estudante de Computação, focado em desenvolver soluções eficientes e aprender novas tecnologias. Atualmente, estou a explorar o desenvolvimento back-end e automações.
 
