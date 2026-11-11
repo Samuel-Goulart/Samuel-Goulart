@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, mundo! 👋 Sou o Samuel Goulart
 
-<!--
-**Samuel-Goulart/Samuel-Goulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Computação, focado em desenvolver soluções eficientes e aprender novas tecnologias. Atualmente, estou a explorar o desenvolvimento back-end e automações.
 
-Here are some ideas to get you started:
+- 💻 Atualmente estudo: C e PHP.
+- 🎯 Objetivo: Evoluir minhas habilidades em arquitetura de software e criar projetos reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** C#, Python, HTML, PHP, C, Sql, 
+- **Banco de Dados & Ferramentas:** Git, GitHub
+
+---
+
+### 📊 Estatísticas do GitHub
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Samuel-Goulart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Goulart&layout=compact&theme=tokyonight"/>
+</p>
+
