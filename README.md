@@ -13,9 +13,3 @@ Estudante de Computação, focado em desenvolver soluções eficientes e aprende
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Samuel-Goulart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Goulart&layout=compact&theme=tokyonight"/>
-</p>
-
